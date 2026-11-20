@@ -1,0 +1,13 @@
+{
+  "name": "tsp-01",
+  "private": true,
+  "version": "2.0.7",
+  "description": "Tokenization Structures Programme \u2014 9 research chapters, 22 reports.",
+  "scripts": {
+    "build": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

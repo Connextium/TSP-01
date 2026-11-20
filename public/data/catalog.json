@@ -1,0 +1,457 @@
+{
+  "edition": "TSP-01 Research Edition 02",
+  "status": "published",
+  "chapters": 9,
+  "reports": [
+    {
+      "chapter": "capital",
+      "slug": "actor-full-cycle",
+      "title": "Capital DLC–ACTOR: The Full Journey from Commitment to Realized Return",
+      "subtitle": "Five stages, multiple principals, double-entry economics and independent lifecycle assurance",
+      "priority": "Flagship",
+      "sources": [
+        "IMF25",
+        "CPMI24",
+        "BIS-AGORA",
+        "MAS-GUARDIAN",
+        "FSB24"
+      ],
+      "workstreams": [
+        "TRR",
+        "TSR",
+        "TLS",
+        "SPE",
+        "RPI",
+        "AFG"
+      ],
+      "url": "/reports/capital/actor-full-cycle/"
+    },
+    {
+      "chapter": "capital",
+      "slug": "primary-issuance-capital-flow",
+      "title": "Primary Issuance: From Investor Funding to Verified Tokenized Assets",
+      "subtitle": "Capital subscriptions, issuer treasury, acquisition, custody and receipt issuance",
+      "priority": "Flagship",
+      "sources": [
+        "IMF25",
+        "MAS-FUND",
+        "IOSCO25",
+        "BIS-AGORA",
+        "CPMI24"
+      ],
+      "workstreams": [
+        "TSR",
+        "TRR",
+        "TLS",
+        "SPE"
+      ],
+      "url": "/reports/capital/primary-issuance-capital-flow/"
+    },
+    {
+      "chapter": "capital",
+      "slug": "secondary-market-capital-flow",
+      "title": "Secondary Markets: Where Token Cash, Holder Rights and Prices Move",
+      "subtitle": "Holder-to-holder trading, inventory, premiums, off-hours liquidity and issuer-neutral turnover",
+      "priority": "Flagship",
+      "sources": [
+        "IMF25",
+        "IOSCO25",
+        "FSB24",
+        "SEC26",
+        "BIS-FXRISK"
+      ],
+      "workstreams": [
+        "TSR",
+        "TLS",
+        "RPI",
+        "SPE"
+      ],
+      "url": "/reports/capital/secondary-market-capital-flow/"
+    },
+    {
+      "chapter": "controls",
+      "slug": "independent-audit-completeness",
+      "title": "Independent Financial-State Verification: Completeness, Valuation and Reconciliation",
+      "subtitle": "Proof that the known token ledger is not missing obligations, backing assets or unsettled positions",
+      "priority": "Technical report",
+      "sources": [
+        "FSB24",
+        "IMF26",
+        "CPMI24",
+        "MAS-FUND",
+        "BIS-MERIDIAN"
+      ],
+      "workstreams": [
+        "AFG",
+        "TRR",
+        "TSR",
+        "SPE"
+      ],
+      "url": "/reports/controls/independent-audit-completeness/"
+    },
+    {
+      "chapter": "controls",
+      "slug": "rights-permissions-resilience",
+      "title": "Institutional Controls for Tokenized Asset Rights and Custody",
+      "subtitle": "Eligibility, segregation of duties, network permissioning, recovery and operational resilience",
+      "priority": "Technical report",
+      "sources": [
+        "FSB24",
+        "CPMI24",
+        "SEC26",
+        "ERC7518",
+        "ERC7943"
+      ],
+      "workstreams": [
+        "AFG",
+        "TRR",
+        "TSR",
+        "SPE"
+      ],
+      "url": "/reports/controls/rights-permissions-resilience/"
+    },
+    {
+      "chapter": "dlt",
+      "slug": "bridge-trust-and-failure",
+      "title": "Bridge, Gateway and Synchronization Designs: Trust and Failure Boundaries",
+      "subtitle": "Cross-chain token movement versus legally effective capital-market interoperability",
+      "priority": "Technical report",
+      "sources": [
+        "BIS-AGORA",
+        "BIS-MERIDIAN",
+        "BIS-NEXUS",
+        "FSB24",
+        "CPMI24"
+      ],
+      "workstreams": [
+        "RPI",
+        "TRR",
+        "SPE",
+        "AFG"
+      ],
+      "url": "/reports/dlt/bridge-trust-and-failure/"
+    },
+    {
+      "chapter": "dlt",
+      "slug": "semantic-interoperability",
+      "title": "Semantic Interoperability Across Securities, Cash and Accounting Ledgers",
+      "subtitle": "Identifiers, ISO 20022 events, authoritative state and financial consistency",
+      "priority": "Technical report",
+      "sources": [
+        "BIS-NEXUS",
+        "BIS-MERIDIAN",
+        "BIS-AGORA",
+        "CPMI24",
+        "DR-INTEROP"
+      ],
+      "workstreams": [
+        "RPI",
+        "SPE",
+        "TRR",
+        "AFG"
+      ],
+      "url": "/reports/dlt/semantic-interoperability/"
+    },
+    {
+      "chapter": "governance",
+      "slug": "dual-principal-negotiation",
+      "title": "Dual-Principal Agents and Negotiated Capital-Market Terms",
+      "subtitle": "Independent buyer and seller mandates, counter-offers, consent and controlled DvP",
+      "priority": "Research report",
+      "sources": [
+        "MAS-SAFR",
+        "IMF26",
+        "BIS-MERIDIAN",
+        "FSB24"
+      ],
+      "workstreams": [
+        "AFG",
+        "TSR",
+        "TLS",
+        "SPE"
+      ],
+      "url": "/reports/governance/dual-principal-negotiation/"
+    },
+    {
+      "chapter": "governance",
+      "slug": "mandates-runtime-controls",
+      "title": "Financial Agents Under Signed Mandates and Runtime Governance",
+      "subtitle": "Agent identity, policy checks, human approvals and accountable execution",
+      "priority": "Flagship",
+      "sources": [
+        "MAS-SAFR",
+        "IMF26",
+        "BIS-AGORA",
+        "FSB24"
+      ],
+      "workstreams": [
+        "AFG",
+        "SPE",
+        "TLS",
+        "RPI"
+      ],
+      "url": "/reports/governance/mandates-runtime-controls/"
+    },
+    {
+      "chapter": "governance",
+      "slug": "treasury-accounting-intelligence",
+      "title": "Autonomous Treasury and Financial Intelligence That Reconcile",
+      "subtitle": "Liquidity headroom, spending reservations, quote freshness and verified journal outcomes",
+      "priority": "Research report",
+      "sources": [
+        "MAS-SAFR",
+        "BIS-RIALTO",
+        "BIS-MERIDIANFX",
+        "IMF26"
+      ],
+      "workstreams": [
+        "AFG",
+        "TLS",
+        "SPE",
+        "RPI"
+      ],
+      "url": "/reports/governance/treasury-accounting-intelligence/"
+    },
+    {
+      "chapter": "liquidity",
+      "slug": "after-hours-market-making",
+      "title": "After-Hours Tokenized Securities: Basis, Market Makers and Liquidity Risk",
+      "subtitle": "Why 24/7 receipt trading can deviate from an underlying exchange's last share price",
+      "priority": "Technical report",
+      "sources": [
+        "FSB24",
+        "IOSCO25",
+        "SEC26",
+        "BIS-MARIANA"
+      ],
+      "workstreams": [
+        "TLS",
+        "TSR",
+        "RPI",
+        "SPE"
+      ],
+      "url": "/reports/liquidity/after-hours-market-making/"
+    },
+    {
+      "chapter": "liquidity",
+      "slug": "fx-landed-cost",
+      "title": "The Total Landed Cost of Cross-Border Tokenized Capital",
+      "subtitle": "FX quotation, slippage, prefunding, network charges and usable beneficiary proceeds",
+      "priority": "Technical report",
+      "sources": [
+        "BIS-WP1385",
+        "BIS-MARIANA",
+        "BIS-RIALTO",
+        "BIS-FXRISK",
+        "BIS-MERIDIANFX"
+      ],
+      "workstreams": [
+        "TLS",
+        "RPI",
+        "SPE"
+      ],
+      "url": "/reports/liquidity/fx-landed-cost/"
+    },
+    {
+      "chapter": "money",
+      "slug": "redemption-and-spendability",
+      "title": "Redemption and Spendability Boundaries in Asset-Backed Transactions",
+      "subtitle": "Why token receipt, cash availability and discharge must be measured separately",
+      "priority": "Supporting context",
+      "sources": [
+        "BIS-WP1385",
+        "BIS-AER26",
+        "FSB24"
+      ],
+      "workstreams": [
+        "TLS",
+        "SPE",
+        "RPI"
+      ],
+      "url": "/reports/money/redemption-and-spendability/"
+    },
+    {
+      "chapter": "money",
+      "slug": "settlement-instrument-selection",
+      "title": "Choosing Settlement Instruments for Tokenized Asset Transactions",
+      "subtitle": "Bank money, tokenized deposits, stablecoins and central-bank settlement in a supporting role",
+      "priority": "Supporting context",
+      "sources": [
+        "BIS-AER25",
+        "BIS-AER26",
+        "CPMI24",
+        "BIS-AGORA"
+      ],
+      "workstreams": [
+        "TLS",
+        "SPE",
+        "RPI"
+      ],
+      "url": "/reports/money/settlement-instrument-selection/"
+    },
+    {
+      "chapter": "rwa",
+      "slug": "bonds-funds-collateral",
+      "title": "Bond, Fund and Collateral Tokenization: Three Different Lifecycles",
+      "subtitle": "Debt service, NAV issuance and encumbered assets on shared infrastructure",
+      "priority": "Flagship",
+      "sources": [
+        "BIS-BONDS",
+        "MAS-FUND",
+        "MAS-GUARDIAN",
+        "FSB24"
+      ],
+      "workstreams": [
+        "TSR",
+        "TRR",
+        "TLS",
+        "SPE"
+      ],
+      "url": "/reports/rwa/bonds-funds-collateral/"
+    },
+    {
+      "chapter": "rwa",
+      "slug": "corporate-action-servicing",
+      "title": "Corporate Actions and Fractional Securities: Entitlement and Servicing",
+      "subtitle": "Record dates, dividends, splits, cash-in-lieu and the beneficial ownership register",
+      "priority": "Flagship",
+      "sources": [
+        "MAS-FUND",
+        "SEC26",
+        "IMF25",
+        "FSB24"
+      ],
+      "workstreams": [
+        "TSR",
+        "TRR",
+        "AFG",
+        "SPE"
+      ],
+      "url": "/reports/rwa/corporate-action-servicing/"
+    },
+    {
+      "chapter": "rwa",
+      "slug": "custody-backed-receipts",
+      "title": "Custody-Backed Securities Receipts: Issuance, Rights and Proof of Backing",
+      "subtitle": "Depositary structure versus native securities and synthetic exposure",
+      "priority": "Flagship",
+      "sources": [
+        "SEC26",
+        "MAS-GUARDIAN",
+        "MAS-FUND",
+        "CPMI24",
+        "FSB24"
+      ],
+      "workstreams": [
+        "TSR",
+        "TRR",
+        "SPE"
+      ],
+      "url": "/reports/rwa/custody-backed-receipts/"
+    },
+    {
+      "chapter": "settlement",
+      "slug": "claims-reconciliation-finality",
+      "title": "Accounting-Driven Settlement: Claims, Discharge and Independent Verification",
+      "subtitle": "Why financial-state completeness matters more than a valid transaction hash",
+      "priority": "Technical report",
+      "sources": [
+        "CPMI24",
+        "BIS-AGORA",
+        "BIS-MERIDIAN",
+        "IMF26",
+        "FSB24"
+      ],
+      "workstreams": [
+        "SPE",
+        "TRR",
+        "RPI",
+        "AFG"
+      ],
+      "url": "/reports/settlement/claims-reconciliation-finality/"
+    },
+    {
+      "chapter": "settlement",
+      "slug": "dvp-pvp-topologies",
+      "title": "Delivery-versus-Payment and Payment-versus-Payment Across Ledger Topologies",
+      "subtitle": "Atomic platforms, synchronization operators and asynchronous hybrid settlement",
+      "priority": "Technical report",
+      "sources": [
+        "BIS-AGORA",
+        "BIS-MERIDIAN",
+        "BIS-MERIDIANFX",
+        "BIS-HELVETIA",
+        "BIS-FXRISK"
+      ],
+      "workstreams": [
+        "SPE",
+        "RPI",
+        "TLS",
+        "AFG"
+      ],
+      "url": "/reports/settlement/dvp-pvp-topologies/"
+    },
+    {
+      "chapter": "tokenization",
+      "slug": "lifecycle-invariants",
+      "title": "Issue, Mint, Transfer, Redeem and Burn: A Verifiable Token Lifecycle",
+      "subtitle": "State machines, event correlation, disputed positions and independently reconstructed supply",
+      "priority": "Flagship",
+      "sources": [
+        "BIS-PROMISSA",
+        "MAS-FUND",
+        "IMF25",
+        "CPMI24",
+        "BIS-MERIDIAN"
+      ],
+      "workstreams": [
+        "TRR",
+        "TSR",
+        "SPE",
+        "RPI"
+      ],
+      "url": "/reports/tokenization/lifecycle-invariants/"
+    },
+    {
+      "chapter": "tokenization",
+      "slug": "rights-before-tokens",
+      "title": "The Token Is Not the Right: Registry Authority and Economic Entitlement",
+      "subtitle": "Separating economic claims, authoritative records, digital representations and settlement evidence",
+      "priority": "Flagship",
+      "sources": [
+        "CPMI24",
+        "IMF25",
+        "SEC26",
+        "FSB24",
+        "ERC6909"
+      ],
+      "workstreams": [
+        "TRR",
+        "TSR",
+        "SPE"
+      ],
+      "url": "/reports/tokenization/rights-before-tokens/"
+    },
+    {
+      "chapter": "tokenization",
+      "slug": "token-standards-choice",
+      "title": "Token-Standard Selection for Financial Claims and Receipts",
+      "subtitle": "ERC-1155, ERC-6909, ERC-3525 and controlled securities interfaces in an institutional registry",
+      "priority": "Flagship",
+      "sources": [
+        "ERC6909",
+        "ERC3525",
+        "ERC7518",
+        "ERC7943",
+        "SEC26",
+        "CPMI24"
+      ],
+      "workstreams": [
+        "TRR",
+        "TSR",
+        "AFG"
+      ],
+      "url": "/reports/tokenization/token-standards-choice/"
+    }
+  ]
+}
